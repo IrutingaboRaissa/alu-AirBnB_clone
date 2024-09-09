@@ -11,7 +11,7 @@ We'll need to
 initialization, serialization and deserialization of your future instances 
 - create a simple flow of serialization/deserialization: Instance < - >
 Dictionary < - > json string < - > file
-- create all clases used for AirBnB(User,  State, City, Place...) that
+- create all classes used for AirBnB(User,  State, City, Place...) that
 inherit from BaseModel
 - create the first abstracted storage engine of the project: File storage.
 - create all unittest to validate all our classes and storage engine.
