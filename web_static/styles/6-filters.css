@@ -4,6 +4,7 @@
     border: 1px solid #DDDDDD;
     border-radius: 4px;
     background-color: #fff;
+	display: flex;
 }
 
 .locations {
